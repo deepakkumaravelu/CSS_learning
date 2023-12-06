@@ -1,0 +1,13 @@
+h1{
+    color:#26848c;
+}
+#para1{
+    font-size: 30px;
+    color: #ccc;
+    background-color: black;
+    border: 5px solid blue;
+}
+.common{
+    color: blue;
+    background-color: orange;
+}
